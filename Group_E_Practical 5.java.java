@@ -1,12 +1,6 @@
 /*Implement the Heap Sort/Shell Sort algorithm implemented in Java demonstrating heap/shell data structure 
 with modularity of programming language*/
 
-/* 
-Name : Aarushi Taori
-Class : SE - B
-Roll no. : 75
-*/
-
 import java.util.Scanner;
 
 public class Assign1 {
