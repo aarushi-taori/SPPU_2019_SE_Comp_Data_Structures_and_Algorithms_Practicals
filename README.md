@@ -1,6 +1,6 @@
 # SPPU_2019_SE_Comp_Data_Structures_and_Algorithms_Practicals
 
-Group_E_Practical 5: HEAP SORT AND SHELL SORT JAVA : Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell
+Group_E_Practical 5: HEAP SORT AND SHELL SORT IN JAVA : Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell
 data structure with modularity of programming language.
 
 Group_B_Practical 6: BINARY SEARCH TREE : Beginning with an empty binary search tree, Construct binary search tree by inserting the values in the order given. After constructing a binary tree - 
