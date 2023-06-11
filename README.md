@@ -19,7 +19,11 @@ Practical 11 : DICTIONARY USING BINARY SEARCH TREE : A Dictionary stores keyword
 
 **GROUP C:** 
 
-Practical 13 : GRAPH : Represent a given graph using adjacency matrix/list to perform DFS and using adjacency list to perform BFS. Use the map of the area around the college as the graph. Identify the prominent land marks as nodes and perform DFS and BFS on that.
+Practical 13 : COLLEGE MAP USING GRAPH : Represent a given graph using adjacency matrix/list to perform DFS and using adjacency list to perform BFS. Use the map of the area around the college as the graph. Identify the prominent land marks as nodes and perform DFS and BFS on that.
+
+Practical 14 : FLIGHT SYSTEM USING GRAPH : There are flight paths between cities. If there is a flight between city A and city B then there is an edge between the cities. The cost of the edge can be the time that flight take to reach city B from A, or the amount of fuel used for the journey. Represent this as a graph. The node can be represented by airport name or name of the city. Use adjacency list representation of the graph or use adjacency matrix representation of the graph.
+Check whether the graph is connected or not. Justify the storage representation used.
+
 
 **GROUP D :**
 
@@ -27,7 +31,10 @@ Practical 19 : AVL TREE : A Dictionary stores keywords and its meanings. Provide
 
 **GROUP E :** 
 
-Practical 5: HEAP SORT AND SHELL SORT IN JAVA : Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language.
+Practical 21: HEAP SORT AND SHELL SORT IN JAVA : Implement the Heap/Shell sort algorithm implemented in Java demonstrating heap/shell data structure with modularity of programming language.
+
+Practical 22 : MAX AND MIN MARKS USING HEAPIFY : Read the marks obtained by students of second year in an online examination of particular subject. Find out maximum and minimum marks obtained in that subject. Use heap data structure. Analyze the algorithm.
+
 
 **GROUP F :**
 
