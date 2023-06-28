@@ -2,8 +2,6 @@
 a client's  telephone number. Make use of two collision handling techniques and compare them using number of 
 comparisons required to find a set of telephone numbers*/
 
-
-
 #include<iostream>
 #include<string.h>
 using namespace std;
