@@ -14,7 +14,6 @@ class node
         string meaning;
         node* next;
     
-    
         node()
             {
                 next=NULL;
